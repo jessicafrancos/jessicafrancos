@@ -1,6 +1,6 @@
 ### Hi there, I'm Jessica Franco 👋
 
-I am a Detailed-oriented full stack web developer and industrial administrator advocated for solving complex problems with efficiency to deliver results with extensive knowledge in JavaScript, React, Redux, NodeJS, Express, Postgres, GIT, SQL, Sequelize among other technologies used in the tech industry. seeking to use proven management and web design skills to improve customer product experience.  
+Detailed-oriented full stack web developer and industrial administrator advocated for solving complex problems with efficiency to deliver results with extensive knowledge in JavaScript, React, Redux, NodeJS, Express, Postgres, GIT, SQL, Sequelize among other technologies used in the tech industry. seeking to use proven management and web design skills to improve customer product experience.  
 
 ### Tech Skills
 <ul>
