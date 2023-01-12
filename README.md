@@ -5,21 +5,25 @@ Detailed-oriented full stack web developer and industrial administrator advocate
 ### Tech Skills
 <ul>
  
-<img width=30px height=30px src=https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667> 
+<img width=40px height=40px src=https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667> 
 
-<img width=30px height=30px src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
+<img width=40px height=40px src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
   
-<img width=30px height=30px src=https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png>
+<img width=40px height=40px src=https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png>
   
-<img width=30px height=30px src=https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667> 
+<img width=40px height=40px src=https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667> 
   
-<img width=30px height=30px src=https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667>
+<img width=40px height=40px src=https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667>
   
-<img width=30px height=30px src=https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png>
+<img width=40px height=40px src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg>
   
-<img width=30px height=30px src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png>
+<img width=40px height=40px src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png>
   
-<img width=30px height=30px src=https://sequelize.org/img/logo.svg> 
+<img width=40px height=40px src=https://sequelize.org/img/logo.svg> 
+
+<img width=40px height=40px src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg>
+
+<img width=40px height=40px src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg>
 
   
   <br/> Javascript | React | Redux |NodeJS | Express | PostgreSQL | Sequelize | Git | HTML5 | CSS
